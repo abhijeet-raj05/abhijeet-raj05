@@ -2,7 +2,7 @@
 <h3 align="center">Android App Developer | AI-ML Explorer | DSA Diver 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=00FFCC&multiline=true&width=600&height=60&lines=Building+Better+UIs+One+App+at+a+Time...;Learning+Something+New+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=FF7F50&multiline=true&width=700&height=60&lines=Exploring+new+things+with+curiosity...;Improving+myself+day+by+day,+brick+by+brick+🚀" alt="Typing SVG" />
 </p>
 
 ---
