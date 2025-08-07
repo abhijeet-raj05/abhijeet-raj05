@@ -10,10 +10,10 @@
 
 ### 🧩 Who am I?
 - 🧠 **Passion-Driven Coder**, fascinated by how things work under the hood
-- 📱 Currently building cross-platform apps using **Flutter**
+- 📱 Currently trying to build cross-platform apps using **Flutter**
 - 🤖 Learning and experimenting with **AI/ML & Data Analytics**
-- 🎯 Problem Solver: active on **Codeforces**, exploring competitive coding
-- 🔍 Curiosity fuels me: I dive into docs, errors, and ideas alike
+- 🎯 Problem Solver: active on **Codeforces**, **LeetCode**, and other platforms.
+- 🔍 Currently **exploring** this huge and exciting field of coding.
 
 ---
 
