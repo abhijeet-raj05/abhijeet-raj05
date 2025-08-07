@@ -28,7 +28,7 @@
 
 ### 💼 Tech Toolbox
 
-```txt
+txt
 Languages:      C++, Python, Kotlin, Java
 Frameworks:     Flutter, Android SDK, Tkinter
 Tools:          Git, Firebase, VSCode, Android Studio
@@ -45,4 +45,4 @@ Interests:      App Dev, AI/ML, Data Analytics, Competitive Coding
 
     "Stay hungry, stay foolish." – Steve Jobs
 
-<p align="center"> <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" /> </p> ```
+<p align="center"> <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" /> </p> 
