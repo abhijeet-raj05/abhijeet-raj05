@@ -17,23 +17,23 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🌐 Connect With Me:
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [🌟 CodeForces_Abhijeet_01](https://github.com/abhijeet-raj05/CodeForces_Abhijeet_01) | `C++` | My Codeforces solutions and logic archive |
-| [📱 project03_AppUI](https://github.com/abhijeet-raj05/project03_AppUI) | `Java` | Android UI exploration project |
-| [📝 Text-Editor-App-Using-Python](https://github.com/abhijeet-raj05/Text-Editor-App-Using-Python) | `Python (tkinter)` | A clean, single-file modern text editor with essential features |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-raj-94b7a4282/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:abhijeetoo505@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhijeet_raj05)
 
 ---
 
-### 💼 Tech Toolbox
+## 💻 Tech Stack:
 
-txt
-Languages:      C++, Python, Kotlin, Java
-Frameworks:     Flutter, Android SDK, Tkinter
-Tools:          Git, Firebase, VSCode, Android Studio
-Interests:      App Dev, AI/ML, Data Analytics, Competitive Coding
+[![C](https://img.shields.io/badge/C-000000?logo=c&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)]()
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhijeet-raj05&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-raj05&theme=radical" alt="Streak Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-raj05&layout=compact&theme=radical" alt="Top Langs" /> </p>
