@@ -8,13 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/abhijeet-raj05">
-<img src="https://komarev.com/ghpvc/?username=abhijeet-raj05&style=for-the-badge&color=6366f1&label=PROFILE+VISITORS" alt="Profile visitors"/>
-</a>
-<a href="https://github.com/abhijeet-raj05?tab=followers">
-<img src="https://img.shields.io/github/followers/abhijeet-raj05?style=for-the-badge&color=0891b2&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
-
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/abhijeet-raj-94b7a4282/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0F172A?style=flat-square&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/></a>
