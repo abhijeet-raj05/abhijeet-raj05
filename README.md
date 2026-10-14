@@ -109,46 +109,8 @@ I don't want to learn technologies just to list them. I want to understand them,
 
 </div>
 
----
 
-### `03 // CURRENT_BUILD`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT-01-6366F1?style=for-the-badge" alt="Project 01"/>
-<img src="https://img.shields.io/badge/DOMAIN-BACKEND-0891B2?style=for-the-badge" alt="Backend"/>
-
-## ⚡ Task Management API
-
-*Turning backend concepts into a working application.*
-
-</div>
-
-A task management backend built while exploring FastAPI and database-driven application development.
-
-| Component | Technology |
-|---|---|
-| API framework | FastAPI |
-| Language | Python |
-| Database | PostgreSQL |
-| ORM | SQLAlchemy |
-| Validation | Pydantic |
-| Schema migrations | Alembic |
-| Additional functionality | Email integration and background tasks |
-
-**What this project helps me explore**
-
-- Structuring a backend application into separate modules.
-- Designing API endpoints and validating request data.
-- Connecting application logic to a relational database.
-- Implementing user registration and email workflows.
-- Understanding how background tasks can keep API responses responsive.
-
-> More projects will appear here as I turn experiments into polished, documented applications.
-
----
-
-### `04 // PROBLEM_SOLVING.exe`
+### `03 // PROBLEM_SOLVING.exe`
 
 <div align="center">
 
@@ -181,7 +143,7 @@ I use competitive programming to strengthen my understanding of data structures,
 
 ---
 
-### `05 // GITHUB.TELEMETRY`
+### `45 // GITHUB.TELEMETRY`
 
 <div align="center">
 
@@ -199,7 +161,7 @@ I use competitive programming to strengthen my understanding of data structures,
 
 ---
 
-### `06 // CONNECT.TO(ABHIJEET)`
+### `05 // CONNECT.TO(ABHIJEET)`
 
 <div align="center">
 
